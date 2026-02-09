@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.crypto.app-mergeDebugResources-48:/layout/top_currency_layout.xml",
+        "source": "com.example.crypto.app-main-51:/layout/top_currency_layout.xml"
+    },
+    {
+        "merged": "com.example.crypto.app-mergeDebugResources-48:/layout/currency_item_layout.xml",
+        "source": "com.example.crypto.app-main-51:/layout/currency_item_layout.xml"
+    },
+    {
+        "merged": "com.example.crypto.app-mergeDebugResources-48:/layout/fragment_market.xml",
+        "source": "com.example.crypto.app-main-51:/layout/fragment_market.xml"
+    },
+    {
+        "merged": "com.example.crypto.app-mergeDebugResources-48:/layout/fragment_watch_list.xml",
+        "source": "com.example.crypto.app-main-51:/layout/fragment_watch_list.xml"
+    },
+    {
+        "merged": "com.example.crypto.app-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "com.example.crypto.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.crypto.app-mergeDebugResources-48:/layout/detail_item_layout.xml",
+        "source": "com.example.crypto.app-main-51:/layout/detail_item_layout.xml"
+    },
+    {
+        "merged": "com.example.crypto.app-mergeDebugResources-48:/layout/fragment_details.xml",
+        "source": "com.example.crypto.app-main-51:/layout/fragment_details.xml"
+    },
+    {
+        "merged": "com.example.crypto.app-mergeDebugResources-48:/layout/fragment_top_loss_gain.xml",
+        "source": "com.example.crypto.app-main-51:/layout/fragment_top_loss_gain.xml"
+    },
+    {
+        "merged": "com.example.crypto.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.crypto.app-main-51:/layout/activity_main.xml"
+    }
+]

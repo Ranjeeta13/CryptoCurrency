@@ -1,0 +1,52 @@
+com.example.crypto.app-profileinstaller-1.4.0-0 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\000ac590178a3945fea8554c876c5894\transformed\profileinstaller-1.4.0\res
+com.example.crypto.app-lifecycle-process-2.10.0-1 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\065efd5febfc1d782d9dd9f0dfbe56d7\transformed\lifecycle-process-2.10.0\res
+com.example.crypto.app-appcompat-resources-1.7.1-2 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\0b978230280f2fe55030d9a5f4d3681e\transformed\appcompat-resources-1.7.1\res
+com.example.crypto.app-appcompat-1.7.1-3 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\0c726c662e1761a3cf18d4703b0d6f7f\transformed\appcompat-1.7.1\res
+com.example.crypto.app-coordinatorlayout-1.1.0-4 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\0eb75573a45469afffaa733e333bf119\transformed\coordinatorlayout-1.1.0\res
+com.example.crypto.app-cardview-1.0.0-5 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\194e5ac90e6776bd89dc6d42546dcda1\transformed\cardview-1.0.0\res
+com.example.crypto.app-core-1.13.1-6 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\1b99ea0859e76fb96af0b2d9fdb276a9\transformed\core-1.13.1\res
+com.example.crypto.app-core-ktx-1.13.1-7 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\1e2d54fa44d4ac37b9911a57aebbd904\transformed\core-ktx-1.13.1\res
+com.example.crypto.app-viewpager2-1.0.0-8 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\23a71df3581feb70e7f997fbdf2eacc3\transformed\viewpager2-1.0.0\res
+com.example.crypto.app-fragment-1.6.2-9 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\240d9f59116555ae64fa5dbdbae57441\transformed\fragment-1.6.2\res
+com.example.crypto.app-graphics-shapes-release-10 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\2bdae46023ac2f53293b58308b2fabc5\transformed\graphics-shapes-release\res
+com.example.crypto.app-drawerlayout-1.1.1-11 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\360115f7f528c14ee493b3b6f5e80fa0\transformed\drawerlayout-1.1.1\res
+com.example.crypto.app-savedstate-12 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\496b0826a6e5780c0a716e42ed8035e6\transformed\savedstate\res
+com.example.crypto.app-emoji2-1.3.0-13 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\4c2dafb374046d4235c4ad6070250ee9\transformed\emoji2-1.3.0\res
+com.example.crypto.app-navigation-fragment-2.9.7-14 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\55979272abea5cdba878df593fdadf86\transformed\navigation-fragment-2.9.7\res
+com.example.crypto.app-emoji2-views-helper-1.3.0-15 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\56fe7f617deea4f821fc33f53b25aa71\transformed\emoji2-views-helper-1.3.0\res
+com.example.crypto.app-SmoothBottomBar-1.7.9-16 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\5847633b161812ff55cfe7eefeaaada3\transformed\SmoothBottomBar-1.7.9\res
+com.example.crypto.app-activity-1.8.0-17 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\5934d7df923c874948eaf285e76cf4b4\transformed\activity-1.8.0\res
+com.example.crypto.app-annotation-experimental-1.4.1-18 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\5e494bdf53c82e7dcdf5c88deb3e626f\transformed\annotation-experimental-1.4.1\res
+com.example.crypto.app-navigation-ui-2.9.7-19 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\6883b48c787395129def9a67c87c90b2\transformed\navigation-ui-2.9.7\res
+com.example.crypto.app-recyclerview-1.2.1-20 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\6a7a207b402f8d0fbd9a640489d8c674\transformed\recyclerview-1.2.1\res
+com.example.crypto.app-Android-SpinKit-1.4.0-21 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\728a31e6a3d151c070e875ed7bf3ffc0\transformed\Android-SpinKit-1.4.0\res
+com.example.crypto.app-slidingpanelayout-1.2.0-22 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\738d40e37127090150e861789f5c558f\transformed\slidingpanelayout-1.2.0\res
+com.example.crypto.app-lifecycle-runtime-23 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\7cc20442751f1e19069f7c57537135ab\transformed\lifecycle-runtime\res
+com.example.crypto.app-dynamicanimation-1.1.0-24 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\7ef26026db37b5f147db879748aa4097\transformed\dynamicanimation-1.1.0\res
+com.example.crypto.app-lifecycle-viewmodel-25 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\8796659487fa0a9c2395c87fa730089f\transformed\lifecycle-viewmodel\res
+com.example.crypto.app-fragment-ktx-1.6.2-26 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\8828d81a9b5693d8c8c69041bf5f4908\transformed\fragment-ktx-1.6.2\res
+com.example.crypto.app-savedstate-ktx-1.4.0-27 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\93ed3f426e7c6b77fe273c61d169896b\transformed\savedstate-ktx-1.4.0\res
+com.example.crypto.app-material-1.13.0-28 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\9611acb6791f208e1d85fd9eaac86389\transformed\material-1.13.0\res
+com.example.crypto.app-core-runtime-2.2.0-29 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\994903e19ce81c98762f1897ec43ca72\transformed\core-runtime-2.2.0\res
+com.example.crypto.app-glide-5.0.5-30 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\9a2f5b75ddc12acbb984a6e73b2ebb8e\transformed\glide-5.0.5\res
+com.example.crypto.app-navigation-fragment-ktx-2.9.7-31 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\a11318b4de9a0cee9c4f8ee48f4367bc\transformed\navigation-fragment-ktx-2.9.7\res
+com.example.crypto.app-core-viewtree-1.0.0-32 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\a238a8002681d47232a5bdc0cc5270c5\transformed\core-viewtree-1.0.0\res
+com.example.crypto.app-navigation-runtime-release-33 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\a2614e932c3604351fb88e5096865490\transformed\navigation-runtime-release\res
+com.example.crypto.app-lifecycle-livedata-core-ktx-2.10.0-34 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\aaad1379ef6ee0aa9d44820b7e2ec31c\transformed\lifecycle-livedata-core-ktx-2.10.0\res
+com.example.crypto.app-lifecycle-livedata-core-2.10.0-35 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\b03352965a0c28ea213616404796bd03\transformed\lifecycle-livedata-core-2.10.0\res
+com.example.crypto.app-startup-runtime-1.1.1-36 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\be71ed7712250311de0c39e09cab3619\transformed\startup-runtime-1.1.1\res
+com.example.crypto.app-navigation-common-release-37 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\c0c502fbfbfdbbda98dbd40faeb7da0c\transformed\navigation-common-release\res
+com.example.crypto.app-activity-ktx-1.8.0-38 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\ca29e92b8a4fa53a133638fee0efd50e\transformed\activity-ktx-1.8.0\res
+com.example.crypto.app-constraintlayout-2.2.1-39 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\d9efd4ed4d6d0ab35e1e11b47f68c90a\transformed\constraintlayout-2.2.1\res
+com.example.crypto.app-lifecycle-livedata-2.10.0-40 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\da3cdaa7897f10ae5eb8b7925b1f3568\transformed\lifecycle-livedata-2.10.0\res
+com.example.crypto.app-lifecycle-viewmodel-ktx-2.10.0-41 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\e9c6c188f500953efa7f08c3369c453b\transformed\lifecycle-viewmodel-ktx-2.10.0\res
+com.example.crypto.app-transition-1.5.0-42 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\ee9d97f2ce4c6a98dea88dca0bb7173f\transformed\transition-1.5.0\res
+com.example.crypto.app-window-1.0.0-43 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\fa12ef89face389a8040d3e896dca8e7\transformed\window-1.0.0\res
+com.example.crypto.app-navigation-ui-ktx-2.9.7-44 C:\Users\RANJEETA PATHAK\.gradle\caches\transforms-3\fc3f2d71ba62d88ecae7a34622bebfcb\transformed\navigation-ui-ktx-2.9.7\res
+com.example.crypto.app-pngs-45 C:\Users\RANJEETA PATHAK\AndroidStudioProjects\college projects\CRYPTO\app\build\generated\res\pngs\debug
+com.example.crypto.app-resValues-46 C:\Users\RANJEETA PATHAK\AndroidStudioProjects\college projects\CRYPTO\app\build\generated\res\resValues\debug
+com.example.crypto.app-packageDebugResources-47 C:\Users\RANJEETA PATHAK\AndroidStudioProjects\college projects\CRYPTO\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.crypto.app-packageDebugResources-48 C:\Users\RANJEETA PATHAK\AndroidStudioProjects\college projects\CRYPTO\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.crypto.app-merged_res-49 C:\Users\RANJEETA PATHAK\AndroidStudioProjects\college projects\CRYPTO\app\build\intermediates\merged_res\debug
+com.example.crypto.app-debug-50 C:\Users\RANJEETA PATHAK\AndroidStudioProjects\college projects\CRYPTO\app\src\debug\res
+com.example.crypto.app-main-51 C:\Users\RANJEETA PATHAK\AndroidStudioProjects\college projects\CRYPTO\app\src\main\res
