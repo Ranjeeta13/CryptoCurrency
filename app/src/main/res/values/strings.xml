@@ -11,4 +11,10 @@
     <string name="_1d">1 Day</string>
     <string name="_1w">1 Week</string>
     <string name="_1m">1 Min</string>
+
+    <!-- Firebase / Google / Facebook -->
+    <string name="facebook_app_id">YOUR_FACEBOOK_APP_ID</string>
+    <string name="fb_login_protocol_scheme">fbYOUR_FACEBOOK_APP_ID</string>
+    <string name="facebook_client_token">YOUR_FACEBOOK_CLIENT_TOKEN</string>
+    <string name="default_web_client_id">YOUR_GOOGLE_WEB_CLIENT_ID</string>
 </resources>
