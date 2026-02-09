@@ -3,9 +3,11 @@
 build/
 app/build/
 
-# Android / IDE
+# Android Studio / IntelliJ
 .idea/
 *.iml
+
+# Local config
 local.properties
 
 # OS
