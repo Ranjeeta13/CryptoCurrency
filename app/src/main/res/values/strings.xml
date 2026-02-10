@@ -16,5 +16,6 @@
     <string name="facebook_app_id">YOUR_FACEBOOK_APP_ID</string>
     <string name="fb_login_protocol_scheme">fbYOUR_FACEBOOK_APP_ID</string>
     <string name="facebook_client_token">YOUR_FACEBOOK_CLIENT_TOKEN</string>
-    <string name="default_web_client_id">YOUR_GOOGLE_WEB_CLIENT_ID</string>
+    <string name="default_web_client_id">785693943075-bpnqj3q656fth9uein1b6eaftht05atp.apps.googleusercontent.com</string>
+    <string name="bottom_navigation_bar">Bottom navigation bar</string>
 </resources>

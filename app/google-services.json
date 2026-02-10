@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "785693943075",
+    "project_id": "cryptocurrency-fab7a",
+    "storage_bucket": "cryptocurrency-fab7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785693943075:android:fc8c248676ccc0efab1896",
+        "android_client_info": {
+          "package_name": "com.example.crypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785693943075-eanboq61ogj959il37eu11klhpq92uld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crypto",
+            "certificate_hash": "958cd6b798b1ce233ed10824cd2fd6e23bdee925"
+          }
+        },
+        {
+          "client_id": "785693943075-bpnqj3q656fth9uein1b6eaftht05atp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9jBijaPKIXutgZpwMmd8PCSzQh5GtQlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785693943075-bpnqj3q656fth9uein1b6eaftht05atp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

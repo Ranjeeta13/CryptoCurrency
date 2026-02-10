@@ -7,7 +7,7 @@ import android.view.View
 import android.widget.PopupMenu
 import androidx.navigation.fragment.findNavController
 import com.example.crypto.databinding.ActivityMainBinding
-import com.facebook.CallbackManager
+
 
 
 class MainActivity : AppCompatActivity() {
@@ -31,11 +31,6 @@ class MainActivity : AppCompatActivity() {
                 binding.bottomBar.visibility = View.VISIBLE
             }
         }
-    }
-    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
-        super.onActivityResult(requestCode, resultCode, data)
-        CallbackManager.Factory.create()
-            .onActivityResult(requestCode, resultCode, data)
     }
 
 }

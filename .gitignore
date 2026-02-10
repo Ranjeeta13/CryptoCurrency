@@ -15,3 +15,7 @@ app/build/
 # OS
 .DS_Store
 Thumbs.db
+
+# Firebase config
+google-services.json
+
